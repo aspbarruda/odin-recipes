@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+.home {
+    background-color: aquamarine;
+}
+
+.chocolate {
+    background-color: rgb(240, 140, 140);
+}
+
+.pota {
+    background-color: rgb(224, 222, 186);
+}
+
+.spag {
+    background-color: darkseagreen;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+img {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: darkblue;
+}
+
+div {
+    text-align: center;
+}
+
+.recipe-options {
+    list-style-type: square;
+    font-size: xx-large;
+}
